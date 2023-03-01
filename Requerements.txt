@@ -1,0 +1,8 @@
+
+Используемые библиотеки 
+Flask 
+Keras
+Tensorflow
+Numpy 
+Traceback
+Json
