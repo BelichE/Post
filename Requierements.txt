@@ -1,5 +1,0 @@
-flask 
-Pillow
-tensorflow
-keras==2.6.0
-numpy
